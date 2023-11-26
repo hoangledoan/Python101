@@ -1,12 +1,12 @@
 # Boolean examples:
 
-###### Simple example
+## Simple example
 ```
 is_true = True
 is_false = False
 ```
 
-######  Comparison Operators
+##  Comparison Operators
 ```
 x = 5
 y = 10
@@ -17,7 +17,7 @@ greater_than = (x > y)  # False
 less_than = (x < y)  # True
 ```
 
-###### Logical Operators
+## Logical Operators
 ```
 has_apple = True
 has_orange = False
@@ -26,7 +26,7 @@ has_fruit = has_apple or has_orange  # True
 has_both_fruits = has_apple and has_orange  # False
 ```
 
-###### Conditional Statements
+## Conditional Statements
 ```
 temperature = 25
 
@@ -36,7 +36,7 @@ else:
     print("It's not too hot.")
 ```
 
-###### Function returns Boolean
+## Function returns Boolean
 ```
 def is_even(number):
     return number % 2 == 0

@@ -28,7 +28,7 @@ x  = 10
 ```
 Simply add '#' where you want to comment, usually before the code you want to explain.
 
-### 3. Variables
+### 3. Variables and Assignment
 You need to define your variables to programm.
 Python variable names have some rules:
 -  They can contain only these characters:
@@ -43,7 +43,23 @@ count = True
 total_score = 30
 user1_input = 'hi'
 ```
+
+You can assign a value to multiple variables:
+```
+mot = one = eins = 1
+```
+
+You can copy a value from an existing variable:
+```
+x = 5
+y = x
+>>> y = 5
+```
 ## II. Types
 In Python, just like in the real world where things come in different types, such as cars, animals, and fruits, data in programming also has types. These types help Python understand and manage the information you're working with. 
 
-[Boolean][Boolean.md]
+Some types are mutable (ability to change flexibly change its type without needing to manually convert them).
+### 1. Boolean
+In short, boolean only has 2 values: True or False. Booleans are essential for making decisions in your code, controlling the flow of your programs, and creating conditions for different actions. [Code examples](Boolean.md)
+
+

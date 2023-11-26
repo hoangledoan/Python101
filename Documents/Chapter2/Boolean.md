@@ -1,5 +1,5 @@
 # Boolean examples:
-
+If you don't understand any example, don't worry, just skip it for now. Understanding will come naturally as you progress through the course.
 ## Simple example
 ```
 is_true = True

@@ -29,5 +29,6 @@ x  = 10
 Simply add '#' where you want to comment, usually before the code you want to explain.
 
 ## II. Types
-[a link][Types.md]
+In Python, just like in the real world where things come in different types, such as cars, animals, and fruits, data in programming also has types. These types help Python understand and manage the information you're working with. Whether it's numbers, words, or other kinds of data, knowing about types is fundamental to writing effective and accurate Python code. 
 
+[Boolean][]

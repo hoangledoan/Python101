@@ -36,8 +36,8 @@ Python variable names have some rules:
     - Uppercase letters (A -Z)
     - Digits (0 - 9)
     -  Underscore (_)
--  case-sensitive: python, Python, PYTHON are different names.
--  they must begin with a letter or an underscore, not a digit
+-  Case-sensitive: python, Python, PYTHON are different names.
+-  They must begin with a letter or an underscore, not a digit
 ```
 count = True
 total_score = 30
@@ -55,11 +55,22 @@ x = 5
 y = x
 >>> y = 5
 ```
+
+### 4. Expression
+An expression is a combination of values, variables, operators, and function calls that results in a single value. It can be as simple as a single constant or as complex as a combination of multiple variables and operations.
+
 ## II. Types
 In Python, just like in the real world where things come in different types, such as cars, animals, and fruits, data in programming also has types. These types help Python understand and manage the information you're working with. 
 
-Some types are mutable (ability to change flexibly change its type without needing to manually convert them).
+Some types (List, Set, Dictionary) are mutable (ability to change flexibly change its type without needing to manually convert them). 
 ### 1. Boolean
-In short, boolean only has 2 values: True or False. Booleans are essential for making decisions in your code, controlling the flow of your programs, and creating conditions for different actions. [Code examples](Boolean.md)
+In short, boolean only has 2 values: True or False. Booleans are essential for making decisions in your code, controlling the flow of your programs, and creating conditions for different actions.
+```
+is_true = True
+is_false = False
+```
+[More examples](Boolean.md)
+
+###
 
 

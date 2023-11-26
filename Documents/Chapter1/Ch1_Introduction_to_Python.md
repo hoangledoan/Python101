@@ -1,4 +1,4 @@
-# A Taste of Py
+# Introduction to Python
 
 ## I. Why Python?
 One reason, not necessarily the most important, is popularity: 

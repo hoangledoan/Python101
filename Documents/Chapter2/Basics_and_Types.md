@@ -58,6 +58,15 @@ y = x
 
 ### 4. Expression
 An expression is a combination of values, variables, operators, and function calls that results in a single value. It can be as simple as a single constant or as complex as a combination of multiple variables and operations.
+```
+x = 5
+y = 10
+
+sum_result = x + y   # sum_result = 15
+product_result = x * y  # product_result = 50
+division_result = y / x  # division_result = 2
+```
+[More examples](Expression.md)
 
 ## II. Types
 In Python, just like in the real world where things come in different types, such as cars, animals, and fruits, data in programming also has types. These types help Python understand and manage the information you're working with. 
